@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and private data - NEVER commit these
+.env
+.streamlit/secrets.toml
+*.secret
+private_data/
+uploads/
+my_data*.csv
+my_data*.xlsx
+
+# Generated reports
+socialpulse_report.*
+socialpulse_cleaned_data.*
+socialpulse_filtered_posts.*
