@@ -1,0 +1,73 @@
+post_id,post_date,platform,content_type,caption,topic,likes,comments,shares,impressions,reach,clicks
+P001,2026-01-05,Instagram,Carousel,3 quick tips: spring collection,Tips & Tutorials,132,19,20,4178,3445,115
+P002,2026-01-07,Instagram,Image,A day behind the scenes at the studio: loyalty rewards,Behind the Scenes,128,18,22,5147,4430,85
+P003,2026-01-10,Instagram,Image,Limited offer on weekend sale,Promotions,99,11,18,5249,4117,112
+P004,2026-01-13,LinkedIn,Text,Limited offer on weekend sale,Promotions,67,9,20,2933,2432,84
+P005,2026-01-14,Instagram,Image,Limited offer on weekend sale,Promotions,67,8,19,4328,3381,79
+P006,2026-01-17,LinkedIn,Image,A day behind the scenes at the studio: small business growth,Behind the Scenes,109,18,28,4231,2887,110
+P007,2026-01-19,X,Image,3 quick tips: small business growth,Tips & Tutorials,136,23,18,4286,2981,142
+P008,2026-01-21,LinkedIn,Image,3 quick tips: design process,Tips & Tutorials,72,8,14,2469,1582,61
+P009,2026-01-24,LinkedIn,Text,A day behind the scenes at the studio: time-saving shortcuts,Behind the Scenes,101,15,21,4245,3049,88
+P010,2026-01-27,Instagram,Image,Introducing our new design process!,Product Launch,121,16,23,3784,3097,105
+P011,2026-01-30,Instagram,Carousel,Limited offer on time-saving shortcuts,Promotions,125,16,21,4571,2953,85
+P012,2026-02-01,Instagram,Carousel,Limited offer on monthly webinar,Promotions,102,17,11,4834,3515,91
+P013,2026-02-02,Facebook,Video,A day behind the scenes at the studio: weekend sale,Behind the Scenes,183,26,53,5861,3907,62
+P014,2026-02-06,Facebook,Image,A day behind the scenes at the studio: time-saving shortcuts,Behind the Scenes,132,14,31,7886,5004,258
+P015,2026-02-07,X,Video,A day behind the scenes at the studio: small business growth,Behind the Scenes,75,11,19,2586,1677,82
+P016,2026-02-11,X,Video,Limited offer on monthly webinar,Promotions,70,8,19,2910,1872,30
+P017,2026-02-12,Facebook,Image,Introducing our new community meetup!,Product Launch,104,14,30,5238,4453,
+P018,2026-02-15,Facebook,Text,A day behind the scenes at the studio: team workshop,Behind the Scenes,134,20,32,6966,4503,154
+P019,2026-02-17,X,Image,How a customer used us for weekend sale,Customer Stories,53,8,9,2983,1939,35
+P020,2026-02-19,Facebook,Image,A day behind the scenes at the studio: monthly webinar,Behind the Scenes,113,20,19,4727,3897,57
+P021,2026-02-22,Instagram,Carousel,Join us for small business growth,Events,292,33,48,9008,5680,221
+P022,2026-02-25,Instagram,Image,How a customer used us for monthly webinar,Customer Stories,131,16,22,3351,2528,103
+P023,2026-02-27,Facebook,Image,3 quick tips: design process,Tips & Tutorials,139,19,39,3370,2865,38
+P024,2026-03-01,Instagram,Carousel,Introducing our new loyalty rewards!,Product Launch,183,24,26,6775,5738,259
+P025,2026-03-03,Instagram,Carousel,Introducing our new small business growth!,Product Launch,189,22,28,5797,4104,182
+P026,2026-03-07,X,Text,Limited offer on loyalty rewards,Promotions,77,7,14,3200,2361,91
+P027,2026-03-08,Instagram,Carousel,A day behind the scenes at the studio: design process,Behind the Scenes,170,22,49,5360,4432,99
+P028,2026-03-11,Instagram,Carousel,Join us for monthly webinar,Events,174,21,50,5288,3651,69
+P029,2026-03-13,LinkedIn,Image,Join us for spring collection,Events,72,10,10,2470,1894,43
+P030,2026-03-15,X,Image,Introducing our new new feature!,Product Launch,45,7,11,1805,1206,47
+P031,2026-03-18,Instagram,Image,Limited offer on community meetup,Promotions,226,26,47,8283,5936,114
+P032,2026-03-21,Instagram,Video,A day behind the scenes at the studio: time-saving shortcuts,Behind the Scenes,238,41,37,7392,5098,289
+P033,2026-03-22,Facebook,Image,How a customer used us for small business growth,Customer Stories,84,13,9,3318,2240,119
+P034,2026-03-26,Facebook,Text,Introducing our new small business growth!,Product Launch,93,17,20,3968,3399,81
+P035,2026-03-27,Instagram,Carousel,A day behind the scenes at the studio: monthly webinar,Behind the Scenes,136,17,23,5134,4026,129
+P036,2026-03-31,Instagram,Image,3 quick tips: weekend sale,Tips & Tutorials,117,17,31,5056,3194,161
+P037,2026-04-02,Instagram,Video,Join us for small business growth,Events,139,23,23,3788,3238,115
+P038,2026-04-04,X,Text,Limited offer on new feature,Promotions,75,14,17,4086,2857,103
+P039,2026-04-07,X,Video,3 quick tips: loyalty rewards,Tips & Tutorials,149,25,29,2716,2197,41
+P040,2026-04-09,X,Video,Introducing our new small business growth!,Product Launch,104,13,21,2173,1746,50
+P041,2026-04-12,Facebook,Text,Introducing our new community meetup!,Product Launch,92,17,22,4460,3079,76
+P042,2026-04-13,Facebook,Image,Introducing our new loyalty rewards!,Product Launch,95,13,15,3677,2309,134
+P043,2026-04-15,X,Image,How a customer used us for new feature,Customer Stories,46,7,7,2368,1639,31
+P044,2026-04-18,Facebook,Text,Join us for monthly webinar,Events,119,14,35,5134,3665,122
+P045,2026-04-21,X,Video,Limited offer on design process,Promotions,151,18,35,3764,2805,134
+P046,2026-04-24,Facebook,Text,3 quick tips: community meetup,Tips & Tutorials,183,21,48,6425,4641,119
+P047,2026-04-26,LinkedIn,Carousel,Introducing our new monthly webinar!,Product Launch,90,9,19,2179,1738,48
+P048,2026-04-28,X,Text,A day behind the scenes at the studio: loyalty rewards,Behind the Scenes,106,10,18,3576,2699,130
+P049,2026-05-01,X,Text,3 quick tips: loyalty rewards,Tips & Tutorials,86,12,12,2302,1737,73
+P050,2026-05-02,X,Text,3 quick tips: design process,Tips & Tutorials,68,9,12,2307,1984,34
+P051,2026-05-05,Instagram,Video,Join us for new feature,Events,224,33,57,5407,4653,62
+P052,2026-05-08,Facebook,Video,3 quick tips: design process,Tips & Tutorials,188,24,25,5028,3253,176
+P053,2026-05-09,Instagram,Video,A day behind the scenes at the studio: spring collection,Behind the Scenes,306,54,35,7473,4977,
+P054,2026-05-12,Facebook,Image,How a customer used us for loyalty rewards,Customer Stories,151,24,22,6076,4329,91
+P055,2026-05-14,Facebook,Video,Introducing our new small business growth!,Product Launch,230,29,33,6325,4034,241
+P056,2026-05-17,Facebook,Image,Limited offer on weekend sale,Promotions,153,30,33,7145,4662,239
+P057,2026-05-20,LinkedIn,Text,Join us for design process,Events,74,10,15,3279,2838,68
+P058,2026-05-21,X,Text,Limited offer on loyalty rewards,Promotions,63,10,7,3085,2139,73
+P059,2026-05-25,LinkedIn,Text,Introducing our new design process!,Product Launch,74,11,13,2762,2042,55
+P060,2026-05-27,Facebook,Video,A day behind the scenes at the studio: monthly webinar,Behind the Scenes,157,27,23,4190,3309,111
+P061,2026-05-29,Instagram,Image,Limited offer on spring collection,Promotions,109,18,20,5677,4056,133
+P062,2026-05-31,LinkedIn,Text,How a customer used us for monthly webinar,Customer Stories,105,15,21,3778,2934,86
+P063,2026-06-03,LinkedIn,Carousel,How a customer used us for time-saving shortcuts,Customer Stories,74,9,21,2557,2025,66
+P064,2026-06-05,Facebook,Text,How a customer used us for community meetup,Customer Stories,124,22,18,4323,3055,151
+P065,2026-06-07,LinkedIn,Text,3 quick tips: time-saving shortcuts,Tips & Tutorials,51,7,7,2043,1470,63
+P066,2026-06-11,Instagram,Image,Join us for team workshop,Events,120,14,17,4907,3594,175
+P067,2026-06-12,X,Image,Introducing our new small business growth!,Product Launch,70,12,8,3265,2238,40
+P068,2026-06-14,X,Video,Join us for new feature,Events,126,18,26,3282,2623,117
+P069,2026-06-18,Instagram,Carousel,Limited offer on monthly webinar,Promotions,122,14,32,4322,2895,74
+P070,2026-06-19,Facebook,Image,How a customer used us for design process,Customer Stories,130,22,29,5128,3619,159
+P071,2026-06-22,Facebook,Video,Limited offer on community meetup,Promotions,140,18,39,6152,4070,89
+P072,2026-06-24,Instagram,Image,A day behind the scenes at the studio: community meetup,Behind the Scenes,296,39,39,7820,5516,188
